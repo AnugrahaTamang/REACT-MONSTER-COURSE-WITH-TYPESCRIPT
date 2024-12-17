@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    position: relative;
+    margin-right: 500px;
+}
+.formOne{
+    background-color: gray;
+    color: white;
+    height: 400px;
+    width: 400px;
+    position: relative;
+    top: 100px;
+}
